@@ -1,7 +1,7 @@
 const Social = () => {
     return (
         <div>
-            <h1 className="text-orange-400">Social</h1>
+            <h1 className="">Social</h1>
         </div>
     );
 };

@@ -8,7 +8,7 @@ import {
 
 const Nav = () => {
     return (
-        <div className="flex h-screen w-full justify-center pt-20">
+        <div className="flex pt-20 bg-slate-800">
             <div className="flex gap-8">
                 <Link
                     to={"/about"}
